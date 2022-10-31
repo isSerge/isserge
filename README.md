@@ -6,4 +6,4 @@ Passionate about blockchains ⛓️
 
 Green tea addict 🍵
 
-Currently building stuff at [Subspace](https://github.com/subspace) 🧑‍💻
+Currently building stuff at [Subspace](https://github.com/subspace) 🧑‍💻 (JS mostly)
