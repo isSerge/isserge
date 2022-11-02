@@ -1,5 +1,3 @@
-### Hi, I am Serge
-
 Software engineer from Kyiv, Ukraine 🇺🇦
 
 Passionate about blockchains ⛓️
