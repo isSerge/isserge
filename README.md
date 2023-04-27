@@ -1,4 +1,4 @@
-Software engineer originally from Kyiv 🇺🇦 
+AI-augmented software engineer originally from Kyiv 🇺🇦 
 
 Green tea addict 🍵 and Asian food maximalist 🥢
 
